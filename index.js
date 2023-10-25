@@ -49,7 +49,7 @@ function calculateFactorial(number) {
 }
 
 const factorial = calculateFactorial(5);
-//console.log(factorial);
+console.log(factorial);
 
 
 // Problem 4: Create a function isPrime that takes a number as a parameter and returns true if it's a prime number, and false otherwise.
@@ -162,6 +162,5 @@ function evenOdd(string) {
 }
 
 //const isEvenOrOdd = evenOdd("Javascript");
-//const isEvenOrOdd = evenOdd("Hello");
-const isEvenOrOdd = evenOdd(55);
-console.log(isEvenOrOdd);
+const isEvenOrOdd = evenOdd("Hello");
+//console.log(isEvenOrOdd);
